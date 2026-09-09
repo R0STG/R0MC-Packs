@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "allPublishersUseGuard": true,
+  "rolloutChecksPassed": true,
+  "activation": {
+    "basis": "Explicit owner request to enable publication",
+    "enabledAtUtc": "2026-09-09T12:35:26.0158181+00:00",
+    "mode": "owner-approved-rollout-override",
+    "verified": "Shared publication guard present in installed Windows Server 1.1.1 and Pack Manager 1.0.6; Windows automated publishing checks passed during the prior build.",
+    "pendingChecks": [
+      "Verify all Mac and other installed publishing copies",
+      "Live disposable-repository upload, contention, interruption and ambiguous-finalization checks",
+      "Installed player address-update rollout checks"
+    ],
+    "note": "The required gate booleans activate publishing by owner request; they do not certify completion of the pending live checks listed here."
+  }
+}
