@@ -1,10 +1,10 @@
 {
-  "schemaVersion": 1,
-  "revision": "42ca2ce5e42b42209e6a1f6daa5d14e1",
-  "updatedAt": "2026-09-21T05:09:00.3892497+00:00",
+  "updatedAt": "2026-09-21T05:40:33.3228385+00:00",
+  "revision": "494d03e923fd4fdf9ef698b33a0e30b2",
   "announcement": {
-    "title": "Minecraft 26.3 is ready",
-    "message": "The server is now on Minecraft 26.3. Update R0MC, then sync the pack and all three terrain snapshots before playing. Unavailable mods are temporarily omitted; native borderless fullscreen replaces Cubes Without Borders.",
-    "blockPlayerStarts": false
-  }
+    "blockPlayerStarts": true,
+    "message": "We are expanding the Overworld terrain to a 6,000-block radius and updating distant terrain downloads. Minecraft and server starts are paused during maintenance.",
+    "title": "Overworld terrain expansion"
+  },
+  "schemaVersion": 1
 }
