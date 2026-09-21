@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-21T05:40:33.3228385+00:00",
-  "revision": "494d03e923fd4fdf9ef698b33a0e30b2",
+  "updatedAt": "2026-09-21T06:53:23.7855408+00:00",
+  "schemaVersion": 1,
   "announcement": {
-    "blockPlayerStarts": true,
-    "message": "We are expanding the Overworld terrain to a 6,000-block radius and updating distant terrain downloads. Minecraft and server starts are paused during maintenance.",
+    "blockPlayerStarts": false,
+    "message": "The Overworld now has a 6,000-block generated radius. The player app will install the updated distant terrain cache before launching.",
     "title": "Overworld terrain expansion"
   },
-  "schemaVersion": 1
+  "revision": "6f5efffad7914eb5a15bf8f14980dc83"
 }
