@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "revision": "454763b0a69149c1bf99677e2d189aa7",
-  "updatedAt": "2026-09-21T02:07:10.2766017+00:00",
+  "revision": "42ca2ce5e42b42209e6a1f6daa5d14e1",
+  "updatedAt": "2026-09-21T05:09:00.3892497+00:00",
   "announcement": {
-    "title": "Minecraft 26.3 upgrade",
-    "message": "The server is being upgraded to Minecraft 26.3. Play Minecraft and Start server are paused while we prepare the world and new distant terrain. The updated app and packs will be available before reopening.",
-    "blockPlayerStarts": true
+    "title": "Minecraft 26.3 is ready",
+    "message": "The server is now on Minecraft 26.3. Update R0MC, then sync the pack and all three terrain snapshots before playing. Unavailable mods are temporarily omitted; native borderless fullscreen replaces Cubes Without Borders.",
+    "blockPlayerStarts": false
   }
 }
