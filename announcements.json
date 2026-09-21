@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-21T06:53:23.7855408+00:00",
   "schemaVersion": 1,
   "announcement": {
-    "blockPlayerStarts": false,
-    "message": "The Overworld now has a 6,000-block generated radius. The player app will install the updated distant terrain cache before launching.",
-    "title": "Overworld terrain expansion"
+    "title": "R0MC app and server maintenance",
+    "blockPlayerStarts": true,
+    "message": "We are installing the checked Player/Pack Manager 1.1.0 and Server 1.2.0 updates. Game and server starts are temporarily paused."
   },
-  "revision": "6f5efffad7914eb5a15bf8f14980dc83"
+  "revision": "c1cab1399c1549c8ba2095bd68d9df9e",
+  "updatedAt": "2026-09-21T07:17:19.8933510+00:00"
 }
